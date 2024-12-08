@@ -1,0 +1,22 @@
+{
+  "name": "outil-analyse-panniers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ai-ENGINEER-s/Outil-Analyse-Panniers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ai-ENGINEER-s/Outil-Analyse-Panniers/issues"
+  },
+  "homepage": "https://github.com/Ai-ENGINEER-s/Outil-Analyse-Panniers#readme",
+  "dependencies": {
+    "mongoose": "^8.8.4"
+  }
+}
